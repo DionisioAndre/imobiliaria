@@ -1,0 +1,1616 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 3606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4111
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 23100
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 19030
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+"GET /admin/users/user/add/ HTTP/1.1" 200 23490
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+"GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/ HTTP/1.1" 200 19030
+"GET /admin/listings/property/add/ HTTP/1.1" 200 42577
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9159
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19698
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1112
+"GET /admin/contracts/rentalcontract/ HTTP/1.1" 200 21470
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 200 607
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/contracts/rentalpayment/ HTTP/1.1" 200 21145
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+"GET /admin/listings/propertyvideo/ HTTP/1.1" 200 18157
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+"GET /admin/chat/chatnotification/add/ HTTP/1.1" 200 20954
+"GET /admin/jsi18n/ HTTP/1.1" 200 8498
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 3606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+"OPTIONS /auth/login/ HTTP/1.1" 200 0
+"OPTIONS /auth/login/ HTTP/1.1" 200 0
+"OPTIONS /auth/login/ HTTP/1.1" 200 0
+"OPTIONS /auth/login/ HTTP/1.1" 200 0
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /auth/login/ HTTP/1.1" 200 0
+Not Found: /auth/login/
+"GET /auth/login/ HTTP/1.1" 404 3657
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+Method Not Allowed: /api/auth/login/
+"GET /api/auth/login/ HTTP/1.1" 405 7528
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /auth/register/ HTTP/1.1" 200 0
+"OPTIONS /auth/register/ HTTP/1.1" 200 0
+"OPTIONS /auth/register/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\imobiliario\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+Bad Request: /api/auth/register/
+"POST /api/auth/register/ HTTP/1.1" 400 68
+"POST /api/auth/register/ HTTP/1.1" 201 919
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 919
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"POST /api/auth/login/ HTTP/1.1" 200 919
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"OPTIONS /api/listings/create/ HTTP/1.1" 200 0
+Forbidden: /api/listings/create/
+"POST /api/listings/create/ HTTP/1.1" 403 65
+Forbidden: /api/listings/create/
+"POST /api/listings/create/ HTTP/1.1" 403 65
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+Watching for file changes with StatReloader
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+Watching for file changes with StatReloader
+"POST /api/auth/login/ HTTP/1.1" 200 919
+Not Found: /
+"GET / HTTP/1.1" 404 3606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+Not Found: /
+"GET / HTTP/1.1" 404 3606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4111
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+"GET /static/admin/css/base.css HTTP/1.1" 200 23100
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4313
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4313
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 19017
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+"GET /admin/users/userverification/ HTTP/1.1" 200 20887
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /admin/users/userverification/ HTTP/1.1" 200 20887
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+- Broken pipe from ('127.0.0.1', 52483)
+- Broken pipe from ('127.0.0.1', 52486)
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8077
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/search.svg HTTP/1.1" 200 607
+- Broken pipe from ('127.0.0.1', 52484)
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+"GET /admin/users/user/ HTTP/1.1" 200 25650
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 645
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1761
+"GET /admin/users/user/2/change/ HTTP/1.1" 200 44967
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 16428
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 2387
+"POST /admin/users/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/users/user/ HTTP/1.1" 200 25852
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+Bad Request: /api/listings/create/
+"POST /api/listings/create/ HTTP/1.1" 400 60
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/listings/ HTTP/1.1" 200 52
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 916
+Internal Server Error: /api/listings/create/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 585, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 552, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\fields.py", line 1929, in to_representation
+    return method(value)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py", line 99, in get_owner_info
+    'phone': obj.owner.phone if obj.owner.show_phone else None,
+                                ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'show_phone'
+"POST /api/listings/create/ HTTP/1.1" 500 24134
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/listings/create/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 585, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 539, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\fields.py", line 109, in get_attribute
+    instance = instance()
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py", line 224, in is_sponsored
+    return Sponsorship.objects.filter(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        property=self,
+        ^^^^^^^^^^^^^^
+        status='active'
+        ^^^^^^^^^^^^^^^
+    ).exists()
+    ^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1542, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1560, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1570, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1676, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1708, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1556, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1363, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1842, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'property' into field. Choices are: activated_at, created_at, end_date, expired_at, id, payments, price, property_id, sponsor_id, sponsorship_type, start_date, status, updated_at
+"POST /api/listings/create/ HTTP/1.1" 500 26999
+Internal Server Error: /api/listings/create/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 585, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\serializers.py", line 539, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\fields.py", line 109, in get_attribute
+    instance = instance()
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py", line 224, in is_sponsored
+    return Sponsorship.objects.filter(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        property=self,
+        ^^^^^^^^^^^^^^
+        status='active'
+        ^^^^^^^^^^^^^^^
+    ).exists()
+    ^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1542, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1560, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\query.py", line 1570, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1676, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1708, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1556, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1363, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\db\models\sql\query.py", line 1842, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'property' into field. Choices are: activated_at, created_at, end_date, expired_at, id, payments, price, property_id, sponsor_id, sponsorship_type, start_date, status, updated_at
+"POST /api/listings/create/ HTTP/1.1" 500 26999
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\ads\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/listings/create/ HTTP/1.1" 201 1223
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/listings/ HTTP/1.1" 200 52
+Not Found: /api//listings/my-properties/
+"GET /api//listings/my-properties/ HTTP/1.1" 404 3708
+Unauthorized: /api/listings/my-properties/
+"GET /api/listings/my-properties/ HTTP/1.1" 401 5352
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2469
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/listings/my-properties/
+"GET /api/listings/my-properties/ HTTP/1.1" 401 172
+Unauthorized: /api/listings/my-properties/
+"GET /api/listings/my-properties/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/token/refresh/ HTTP/1.1" 200 0
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 6940
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2565
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2565
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2565
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2565
+"OPTIONS /api/listings/create/ HTTP/1.1" 200 0
+"POST /api/listings/create/ HTTP/1.1" 201 372
+Not Found: /
+"GET / HTTP/1.1" 404 3606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3657
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4111
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+"GET /static/admin/css/base.css HTTP/1.1" 200 23100
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+- Broken pipe from ('127.0.0.1', 56306)
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4312
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 19021
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+"GET /admin/listings/property/ HTTP/1.1" 200 28616
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8077
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/img/search.svg HTTP/1.1" 200 607
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1761
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/listings/property/1bf670b0-0be3-4304-b363-b5fb7b3af178/change/ HTTP/1.1" 200 43430
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9159
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19698
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1112
+Imóvel 1bf670b0-0be3-4304-b363-b5fb7b3af178 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório, Mínimo de 4 imagens é obrigatório, 1 vídeo obrigatório
+"POST /admin/listings/property/1bf670b0-0be3-4304-b363-b5fb7b3af178/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 28892
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+"GET /admin/listings/property/b90100c6-13a3-4138-a3e4-91530a2a977c/change/ HTTP/1.1" 200 43548
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /admin/listings/property/b90100c6-13a3-4138-a3e4-91530a2a977c/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 28907
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/eafbbf38-da41-48f2-9d35-6a78dfc7a985/change/ HTTP/1.1" 200 43548
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+Imóvel eafbbf38-da41-48f2-9d35-6a78dfc7a985 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório, Mínimo de 4 imagens é obrigatório, 1 vídeo obrigatório
+"POST /admin/listings/property/eafbbf38-da41-48f2-9d35-6a78dfc7a985/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 28907
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3169
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3169
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3169
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3169
+"POST /api/listings/create/ HTTP/1.1" 201 365
+"OPTIONS /api/listings/undefined/images/ HTTP/1.1" 200 0
+Not Found: /api/listings/undefined/images/
+"POST /api/listings/undefined/images/ HTTP/1.1" 404 7974
+"POST /api/listings/create/ HTTP/1.1" 201 365
+Not Found: /api/listings/undefined/images/
+"POST /api/listings/undefined/images/ HTTP/1.1" 404 7974
+"POST /api/listings/create/ HTTP/1.1" 201 365
+Not Found: /api/listings/undefined/images/
+"POST /api/listings/undefined/images/ HTTP/1.1" 404 7974
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/listings/create/
+"POST /api/listings/create/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/token/refresh/ HTTP/1.1" 200 0
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 6940
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 4987
+"GET /api/listings/my-properties/ HTTP/1.1" 200 4987
+"POST /api/listings/create/ HTTP/1.1" 201 440
+"OPTIONS /api/listings/a95b4911-3a1e-4ac7-81f3-48342dd387cf/images/ HTTP/1.1" 200 0
+Bad Request: /api/listings/a95b4911-3a1e-4ac7-81f3-48342dd387cf/images/
+"POST /api/listings/a95b4911-3a1e-4ac7-81f3-48342dd387cf/images/ HTTP/1.1" 400 43
+"OPTIONS /api/listings/create/ HTTP/1.1" 200 0
+"POST /api/listings/create/ HTTP/1.1" 201 440
+"OPTIONS /api/listings/properties/da22d4ba-906c-49dc-9efd-049211c675c2/images/ HTTP/1.1" 200 0
+"POST /api/listings/properties/da22d4ba-906c-49dc-9efd-049211c675c2/images/ HTTP/1.1" 201 57
+"OPTIONS /api/listings/properties/da22d4ba-906c-49dc-9efd-049211c675c2/video/ HTTP/1.1" 200 0
+"POST /api/listings/properties/da22d4ba-906c-49dc-9efd-049211c675c2/video/ HTTP/1.1" 201 55
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 7458
+"POST /api/listings/create/ HTTP/1.1" 201 388
+"OPTIONS /api/listings/properties/18745a14-a2d9-4f90-b161-17bce0673c0a/images/ HTTP/1.1" 200 0
+"POST /api/listings/properties/18745a14-a2d9-4f90-b161-17bce0673c0a/images/ HTTP/1.1" 201 57
+"OPTIONS /api/listings/properties/18745a14-a2d9-4f90-b161-17bce0673c0a/video/ HTTP/1.1" 200 0
+"POST /api/listings/properties/18745a14-a2d9-4f90-b161-17bce0673c0a/video/ HTTP/1.1" 201 55
+"GET /api/listings/my-properties/ HTTP/1.1" 200 9331
+"GET /api/auth/profile/ HTTP/1.1" 200 420
+"GET /api/auth/profile/ HTTP/1.1" 200 420
+"GET /api/listings/my-properties/ HTTP/1.1" 200 9331
+"GET /api/listings/my-properties/ HTTP/1.1" 200 9331
+"GET /admin/listings/property/ HTTP/1.1" 200 33391
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /admin/listings/property/ HTTP/1.1" 200 21963
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/listings/property/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 21838
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"GET /api/listings/my-properties/ HTTP/1.1" 200 2
+"POST /api/listings/create/ HTTP/1.1" 201 440
+"OPTIONS /api/listings/properties/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/images/ HTTP/1.1" 200 0
+"POST /api/listings/properties/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/images/ HTTP/1.1" 201 57
+"OPTIONS /api/listings/properties/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/video/ HTTP/1.1" 200 0
+"POST /api/listings/properties/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/video/ HTTP/1.1" 201 55
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 200 153892
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 54071)
+- Broken pipe from ('127.0.0.1', 54294)
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1887
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+Bad Request: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 400 47
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+"POST /api/auth/register/ HTTP/1.1" 201 920
+"POST /api/auth/login/ HTTP/1.1" 200 920
+"OPTIONS /api/listings/?status=active HTTP/1.1" 200 0
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /admin/listings/property/ HTTP/1.1" 200 25405
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43510
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9159
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19698
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+Imóvel 2938c6fe-d6ee-4736-8d5b-f4ec102098b0 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório
+"POST /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25686
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"GET /api/listings/?status=active HTTP/1.1" 200 52
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 52
+"GET /api/listings/ HTTP/1.1" 200 52
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1937
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1937
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25405
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43510
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+Imóvel 2938c6fe-d6ee-4736-8d5b-f4ec102098b0 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório
+"POST /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25686
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/ HTTP/1.1" 200 25405
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43510
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43510
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25677
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /admin/listings/property/ HTTP/1.1" 200 25399
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43501
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1936
+"GET /api/listings/ HTTP/1.1" 200 1936
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1886
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1886
+"POST /api/listings/create/ HTTP/1.1" 201 433
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/images/ HTTP/1.1" 200 0
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/images/ HTTP/1.1" 201 57
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/video/ HTTP/1.1" 200 0
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/video/ HTTP/1.1" 201 55
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3765
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 200 153892
+- Broken pipe from ('127.0.0.1', 57546)
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+- Broken pipe from ('127.0.0.1', 57816)
+"POST /api/auth/login/ HTTP/1.1" 200 920
+"GET /api/listings/?status=active HTTP/1.1" 200 1936
+"GET /api/listings/?status=active HTTP/1.1" 200 1936
+"GET /api/listings/ HTTP/1.1" 200 1936
+"GET /api/listings/ HTTP/1.1" 200 1936
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+Imóvel 2938c6fe-d6ee-4736-8d5b-f4ec102098b0 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1936
+Imóvel 2938c6fe-d6ee-4736-8d5b-f4ec102098b0 não pode ser publicado: Pelo menos 1 documento de titularidade é obrigatório
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+"GET /api/listings/ HTTP/1.1" 200 1936
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 59417)
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+"GET /admin/listings/property/2938c6fe-d6ee-4736-8d5b-f4ec102098b0/change/ HTTP/1.1" 200 43502
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+"GET /static/admin/css/base.css HTTP/1.1" 200 23100
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8077
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /admin/listings/propertydocument/ HTTP/1.1" 200 20230
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+- Broken pipe from ('127.0.0.1', 52840)
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/documents/ HTTP/1.1" 200 0
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/documents/ HTTP/1.1" 201 66
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+- Broken pipe from ('127.0.0.1', 52938)
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /media/property_images/s_3_pI6qk2V.jpeg HTTP/1.1" 304 0
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 53422)
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/documents/ HTTP/1.1" 201 66
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /admin/listings/propertydocument/ HTTP/1.1" 200 23075
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1761
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 645
+"GET /admin/listings/propertydocument/5/change/ HTTP/1.1" 200 27601
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 689
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 805
+"POST /admin/listings/propertydocument/5/change/ HTTP/1.1" 200 27880
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /admin/listings/propertydocument/5/change/ HTTP/1.1" 302 0
+"GET /admin/listings/propertydocument/ HTTP/1.1" 200 23361
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /api/listings/my-properties/ HTTP/1.1" 200 3766
+"GET /admin/listings/property/ HTTP/1.1" 200 26163
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+- Broken pipe from ('127.0.0.1', 53421)
+"POST /admin/listings/property/ HTTP/1.1" 200 18871
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/listings/property/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25528
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/change/ HTTP/1.1" 200 43475
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"POST /admin/listings/property/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/change/ HTTP/1.1" 302 0
+"GET /admin/listings/property/ HTTP/1.1" 200 25656
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/ HTTP/1.1" 200 25385
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /admin/listings/property/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/change/ HTTP/1.1" 200 43466
+"GET /admin/jsi18n/ HTTP/1.1" 200 8514
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+- Broken pipe from ('127.0.0.1', 53909)
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+- Broken pipe from ('127.0.0.1', 54385)
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 55663)
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+- Broken pipe from ('127.0.0.1', 56062)
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/documents/ HTTP/1.1" 201 66
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+- Broken pipe from ('127.0.0.1', 56125)
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1879
+- Broken pipe from ('127.0.0.1', 56165)
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+- Broken pipe from ('127.0.0.1', 56473)
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 57613)
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 920
+"OPTIONS /api/listings/?status=active HTTP/1.1" 200 0
+"OPTIONS /api/listings/?status=active HTTP/1.1" 200 0
+"GET /api/listings/?status=active HTTP/1.1" 200 1951
+"GET /api/listings/?status=active HTTP/1.1" 200 1951
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"GET /api/listings/ HTTP/1.1" 200 1951
+"GET /api/listings/ HTTP/1.1" 200 1951
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 0
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 87
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 87
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 87
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 44
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 44
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1951
+"GET /api/listings/ HTTP/1.1" 200 1951
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 44
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 44
+Bad Request: /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 400 44
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\listings\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 240
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 916
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"OPTIONS /api/chat/ HTTP/1.1" 200 0
+"OPTIONS /api/chat/ HTTP/1.1" 200 0
+- Broken pipe from ('127.0.0.1', 59206)
+Internal Server Error: /api/chat/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\chat\views.py", line 30, in get_queryset
+    return Chat.objects.filter(Q(seller=user) | Q(buyer=user)).distinct()
+                               ^
+NameError: name 'Q' is not defined
+"GET /api/chat/ HTTP/1.1" 500 22644
+Internal Server Error: /api/chat/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\chat\views.py", line 30, in get_queryset
+    return Chat.objects.filter(Q(seller=user) | Q(buyer=user)).distinct()
+                               ^
+NameError: name 'Q' is not defined
+"GET /api/chat/ HTTP/1.1" 500 22644
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 292
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 292
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 247
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 540
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 540
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 253
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 794
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 794
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/auth/profile/ HTTP/1.1" 200 419
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 794
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 794
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 794
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 249
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1044
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1900
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1044
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 920
+"GET /api/listings/?status=active HTTP/1.1" 200 1951
+"GET /api/listings/?status=active HTTP/1.1" 200 1951
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 304 0
+"GET /api/listings/ HTTP/1.1" 200 1951
+"GET /api/listings/ HTTP/1.1" 200 1951
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 240
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1285
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1285
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1285
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 247
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+Unauthorized: /api/listings/my-properties/
+"GET /api/listings/my-properties/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/token/refresh/ HTTP/1.1" 200 0
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 6940
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+Unauthorized: /api/listings/
+"GET /api/listings/ HTTP/1.1" 401 172
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 6940
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 183
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 183
+"OPTIONS /api/auth/token/refresh/ HTTP/1.1" 200 0
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 5466
+Unauthorized: /api/auth/logout/
+Unauthorized: /api/auth/logout/
+"POST /api/auth/logout/ HTTP/1.1" 401 68
+"POST /api/auth/logout/ HTTP/1.1" 401 68
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 914
+"OPTIONS /api/listings/?status=active HTTP/1.1" 200 0
+"OPTIONS /api/listings/?status=active HTTP/1.1" 200 0
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"GET /media/property_images/s_3_UqyaaSQ.jpeg HTTP/1.1" 200 153892
+"POST /api/auth/login/ HTTP/1.1" 200 910
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/my-properties/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 0
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+- Broken pipe from ('127.0.0.1', 53922)
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"GET /api/listings/my-properties/ HTTP/1.1" 200 1901
+"OPTIONS /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/visits/ HTTP/1.1" 200 0
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/visits/ HTTP/1.1" 200 52
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1533
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+"POST /api/auth/logout/ HTTP/1.1" 200 42
+"POST /api/auth/login/ HTTP/1.1" 200 914
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"OPTIONS /api/listings/ HTTP/1.1" 200 0
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 201 254
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"GET /api/listings/?status=active HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"POST /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/visits/ HTTP/1.1" 201 393
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1788
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1788
+"GET /api/listings/properties/0d9dd0e0-8f9d-4531-9280-f4c0fd6f68b6/messages/ HTTP/1.1" 200 1788
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"PUT /api/auth/profile/ HTTP/1.1" 200 166
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"PUT /api/auth/profile/ HTTP/1.1" 200 166
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"PUT /api/auth/profile/ HTTP/1.1" 200 166
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"OPTIONS /api/contracts/my-contracts/ HTTP/1.1" 200 0
+"OPTIONS /api/contracts/my-contracts/ HTTP/1.1" 200 0
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                                              ^
+NameError: name 'Q' is not defined
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 20691
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                                              ^
+NameError: name 'Q' is not defined
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 20691
+C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1461, in build_filter
+    return self._add_q(
+           ~~~~~~~~~~~^
+        filter_expr,
+        ^^^^^^^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1484, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1296, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1761, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'landlord' into field. Choices are: activated_at, contract_number, contract_type, created_at, deposit_amount, duration_months, end_date, expired_at, id, landlord_id, monthly_rent, payment_day, payment_method, payments, property_id, renewals, start_date, status, tenant_id, updated_at
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 23860
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1461, in build_filter
+    return self._add_q(
+           ~~~~~~~~~~~^
+        filter_expr,
+        ^^^^^^^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1484, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1296, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1761, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'landlord' into field. Choices are: activated_at, contract_number, contract_type, created_at, deposit_amount, duration_months, end_date, expired_at, id, landlord_id, monthly_rent, payment_day, payment_method, payments, property_id, renewals, start_date, status, tenant_id, updated_at
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 23860
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1461, in build_filter
+    return self._add_q(
+           ~~~~~~~~~~~^
+        filter_expr,
+        ^^^^^^^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1484, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1296, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1761, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'landlord' into field. Choices are: activated_at, contract_number, contract_type, created_at, deposit_amount, duration_months, end_date, expired_at, id, landlord_id, monthly_rent, payment_day, payment_method, payments, property_id, renewals, start_date, status, tenant_id, updated_at
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 23860
+Internal Server Error: /api/contracts/my-contracts/
+Traceback (most recent call last):
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\HOSSIDEV\Documents\PROGRAMACAO PROJECTOS\imobiliaria\DJANGO\contracts\views.py", line 402, in my_contracts_view
+    contracts = RentalContract.objects.filter(Q(landlord=user) | Q(tenant=user)).distinct()
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1461, in build_filter
+    return self._add_q(
+           ~~~~~~~~~~~^
+        filter_expr,
+        ^^^^^^^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1484, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1296, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HOSSIDEV\AppData\Roaming\Python\Python314\site-packages\django\db\models\sql\query.py", line 1761, in names_to_path
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Cannot resolve keyword 'landlord' into field. Choices are: activated_at, contract_number, contract_type, created_at, deposit_amount, duration_months, end_date, expired_at, id, landlord_id, monthly_rent, payment_day, payment_method, payments, property_id, renewals, start_date, status, tenant_id, updated_at
+"GET /api/contracts/my-contracts/ HTTP/1.1" 500 23860
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"PUT /api/auth/profile/ HTTP/1.1" 200 166
+"GET /api/auth/profile/ HTTP/1.1" 200 423
+"GET /api/listings/ HTTP/1.1" 200 1952
+"GET /api/listings/ HTTP/1.1" 200 1952
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 183
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 183
+"OPTIONS /api/auth/token/refresh/ HTTP/1.1" 200 0
+Not Found: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 404 5466
+Unauthorized: /api/auth/logout/
+Unauthorized: /api/auth/logout/
+"POST /api/auth/logout/ HTTP/1.1" 401 68
+"POST /api/auth/logout/ HTTP/1.1" 401 68
